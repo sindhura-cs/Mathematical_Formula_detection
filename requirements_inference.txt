@@ -1,0 +1,128 @@
+absl-py==1.4.0
+addict==2.4.0
+asttokens==2.2.1
+asynctest==0.13.0
+attrs==23.1.0
+backcall==0.2.0
+brotlipy==0.7.0
+cachetools==5.3.1
+certifi @ file:///croot/certifi_1683875369620/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.3
+codecov==2.1.13
+colorama==0.4.6
+comm==0.1.3
+contourpy==1.0.7
+coverage==7.2.7
+cryptography @ file:///work/ci_py311_2/cryptography_1679335572456/work
+cycler==0.11.0
+Cython==0.29.35
+debugpy==1.6.7
+decorator==5.1.1
+ensemble-boxes==1.0.9
+executing==1.2.0
+filelock @ file:///work/ci_py311/filelock_1676823024085/work
+flake8==6.0.0
+fonttools==4.39.4
+gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
+google-auth==2.19.1
+google-auth-oauthlib==1.0.0
+grpcio==1.54.2
+idna @ file:///work/ci_py311/idna_1676822698822/work
+iniconfig==2.0.0
+interrogate==1.5.0
+ipykernel==6.23.2
+ipython==8.14.0
+isort==4.3.21
+jedi==0.18.2
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+jupyter_client==8.2.0
+jupyter_core==5.3.1
+kiwisolver==1.4.4
+kwarray==0.6.13
+llvmlite==0.40.1rc1
+Markdown==3.4.3
+markdown-it-py==2.2.0
+MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+mccabe==0.7.0
+mdurl==0.1.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mmcv==2.0.0
+-e git+https://github.com/open-mmlab/mmdetection.git@ecac3a77becc63f23d9f6980b2a36f86acd00a8a#egg=mmdet
+mmengine==0.7.4
+mmpycocotools==12.0.3
+model-index==0.1.11
+mpmath==1.2.1
+nest-asyncio==1.5.6
+networkx @ file:///croot/networkx_1678964333703/work
+numba==0.57.0
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+oauthlib==3.2.2
+opencv-python==4.7.0.72
+openmim==0.3.7
+ordered-set==4.1.0
+packaging==23.1
+pandas==2.0.2
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.4.0
+platformdirs==3.6.0
+pluggy==1.0.0
+prompt-toolkit==3.0.38
+protobuf==4.23.2
+psutil==5.9.5
+ptyprocess==0.7.0
+pure-eval==0.2.2
+py==1.11.0
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycocotools==2.0.6
+pycodestyle==2.10.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyflakes==3.0.1
+Pygments==2.15.1
+pyOpenSSL @ file:///croot/pyopenssl_1678965284384/work
+pyparsing==3.0.9
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+pytest==7.3.1
+python-dateutil==2.8.2
+pytz==2023.3
+PyYAML==6.0
+pyzmq==25.1.0
+requests @ file:///croot/requests_1682607517574/work
+requests-oauthlib==1.3.1
+rich==13.4.1
+rsa==4.9
+scipy==1.10.1
+shapely==2.0.1
+six==1.16.0
+stack-data==0.6.2
+sympy @ file:///work/ci_py311_2/sympy_1679339311852/work
+tabulate==0.9.0
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+termcolor==2.3.0
+terminaltables==3.1.10
+toml==0.10.2
+tomli==2.0.1
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tornado==6.3.2
+tqdm==4.65.0
+traitlets==5.9.0
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1681939499988/work
+tzdata==2023.3
+ubelt==1.2.4
+urllib3 @ file:///croot/urllib3_1686163155763/work
+wcwidth==0.2.6
+Werkzeug==2.3.6
+xdoctest==1.1.1
+yapf==0.33.0
